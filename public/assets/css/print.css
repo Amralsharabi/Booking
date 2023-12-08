@@ -1,0 +1,14 @@
+td,th{
+    /* padding-right: 7px !important; */
+    border: 0px !important;
+}.th{
+    background-color: #2b53604f !important;
+    /* color: white; */
+}.tr{
+    background-color: #2b5360a3 !important;
+    color: white;
+}
+table{
+    border: solid 2px black !important;
+    text-align: center;
+}
